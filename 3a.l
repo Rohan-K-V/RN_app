@@ -27,3 +27,4 @@ printf("Number of lines = %d\n",lc);
 return 0;
 fclose(yyin);
 }
+}
